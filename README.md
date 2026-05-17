@@ -39,34 +39,34 @@ augment creative and cognitive work.
 
 | Project | Description |
 |---------|-------------|
-| [**compound-mind**](https://github.com/amumulam/compound-mind) | 自我迭代的 AI Agent 框架 |
-| [**rana**](https://github.com/amumulam/rana) | UX 需求分析 Agent Skill |
+| [**compound-mind**](https://github.com/amumulam/compound-mind) | Self-evolving AI agent framework |
+| [**rana**](https://github.com/amumulam/rana) | UX requirement analysis agent skill |
 | [**confluence-km-skill**](https://github.com/amumulam/confluence-km-skill) | Confluence Data Center AI agent skill |
-| [**diataxis-writing**](https://github.com/amumulam/diataxis-writing) | Diátaxis 写作框架 Agent Skill |
+| [**diataxis-writing**](https://github.com/amumulam/diataxis-writing) | Diátaxis writing framework agent skill |
 
 #### UX & Design Tooling
 
 | Project | Description |
 |---------|-------------|
-| [**grid-creator**](https://github.com/amumulam/grid-creator) | Figma 网格生成插件 |
-| [**vmic-ued-exp-pod**](https://github.com/amumulam/vmic-ued-exp-pod) | UED 体验设计知识库 |
+| [**grid-creator**](https://github.com/amumulam/grid-creator) | Figma grid creation plugin |
+| [**vmic-ued-exp-pod**](https://github.com/amumulam/vmic-ued-exp-pod) | UED experience design knowledge base |
 
 #### Developer Tools
 
 | Project | Description |
 |---------|-------------|
-| [**mp42gif**](https://github.com/amumulam/mp42gif) | MP4 批量转 GIF 工具 |
-| [**mihomo-setup**](https://github.com/amumulam/mihomo-setup) | mihomo 代理一键部署 |
-| [**n8n-runner-config**](https://github.com/amumulam/n8n-runner-config) | n8n runner Docker 配置 |
-| [**ghostty-config**](https://github.com/amumulam/ghostty-config) | Ghostty 终端配置 |
+| [**mp42gif**](https://github.com/amumulam/mp42gif) | Batch MP4 to GIF conversion tool |
+| [**mihomo-setup**](https://github.com/amumulam/mihomo-setup) | One-click mihomo proxy deployment |
+| [**n8n-runner-config**](https://github.com/amumulam/n8n-runner-config) | n8n runner Docker configuration |
+| [**ghostty-config**](https://github.com/amumulam/ghostty-config) | Ghostty terminal configuration |
 
 #### Personal
 
 | Project | Description |
 |---------|-------------|
-| [**site**](https://github.com/amumulam/site) | 个人技术笔记与博客 |
-| [**degree-thesis**](https://github.com/amumulam/degree-thesis) | 学位论文相关材料 |
-| [**zhuazhua-and-friends-blog**](https://github.com/amumulam/zhuazhua-and-friends-blog) | 爪爪与朋友们的学习记录 |
+| [**site**](https://github.com/amumulam/site) | Personal tech notes and blog (MkDocs) |
+| [**degree-thesis**](https://github.com/amumulam/degree-thesis) | Degree thesis and academic materials |
+| [**zhuazhua-and-friends-blog**](https://github.com/amumulam/zhuazhua-and-friends-blog) | Zhua Zhua and Friends learning blog |
 
 ---
 
@@ -77,12 +77,12 @@ augment creative and cognitive work.
 
 | Project | Description |
 |---------|-------------|
-| [ixd-android-course-project](https://github.com/amumulam/ixd-android-course-project) | 交互设计课程 Android 项目 |
-| [uxcat-concept-prototype](https://github.com/amumulam/uxcat-concept-prototype) | UX Agent 概念原型 |
-| [ux-design-knowledge-scraper](https://github.com/amumulam/ux-design-knowledge-scraper) | Playwright UX 知识爬虫 |
-| [omae](https://github.com/amumulam/omae) | 多 Agent 编排系统 |
-| [llm-graph-builder](https://github.com/amumulam/llm-graph-builder) | Neo4j + LLM 图谱构建 (fork) |
-| [free-programming-books-zh_CN](https://github.com/amumulam/free-programming-books-zh_CN) | 免费计算机编程中文书单 (fork) |
+| [ixd-android-course-project](https://github.com/amumulam/ixd-android-course-project) | IxD curriculum Android course project |
+| [uxcat-concept-prototype](https://github.com/amumulam/uxcat-concept-prototype) | UX Agent concept prototype |
+| [ux-design-knowledge-scraper](https://github.com/amumulam/ux-design-knowledge-scraper) | Playwright UX knowledge scraper |
+| [omae](https://github.com/amumulam/omae) | Multi-agent orchestration framework |
+| [llm-graph-builder](https://github.com/amumulam/llm-graph-builder) | Neo4j + LLM graph builder (fork) |
+| [free-programming-books-zh_CN](https://github.com/amumulam/free-programming-books-zh_CN) | Free programming books in Chinese (fork) |
 
 </details>
 
