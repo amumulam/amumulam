@@ -60,13 +60,6 @@ augment creative and cognitive work.
 | [**n8n-runner-config**](https://github.com/amumulam/n8n-runner-config) | n8n runner Docker configuration |
 | [**ghostty-config**](https://github.com/amumulam/ghostty-config) | Ghostty terminal configuration |
 
-#### Personal
-
-| Project | Description |
-|---------|-------------|
-| [**site**](https://github.com/amumulam/site) | Personal tech notes and blog (MkDocs) |
-| [**degree-thesis**](https://github.com/amumulam/degree-thesis) | Degree thesis and academic materials |
-| [**zhuazhua-and-friends-blog**](https://github.com/amumulam/zhuazhua-and-friends-blog) | Zhua Zhua and Friends learning blog |
 
 ---
 
